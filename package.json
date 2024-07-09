@@ -2,7 +2,7 @@
   "name": "pagina",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alfre2arce.github.io/paginagit /build",
+  "homepage": "https://alfre2arce.github.io/pagina/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
